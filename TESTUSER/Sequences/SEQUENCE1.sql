@@ -1,0 +1,1 @@
+CREATE SEQUENCE testuser.sequence1;

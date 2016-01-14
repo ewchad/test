@@ -1,0 +1,1 @@
+GRANT INHERIT PRIVILEGES ON testuser.testuser TO "PUBLIC";

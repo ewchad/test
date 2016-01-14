@@ -1,0 +1,4 @@
+CREATE OR REPLACE FORCE VIEW testuser.view1 (column1) AS
+SELECT "COLUMN1"
+    
+FROM TABLE1;
